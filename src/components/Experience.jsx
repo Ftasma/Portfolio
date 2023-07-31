@@ -44,12 +44,12 @@ const Experience = () => {
       title: "Tailwind",
       style: "shadow-sky-500",
     },
-    // {
-    //   id: 7,
-    //   src: firebaseImg,
-    //   title: "Firebase",
-    //   style: "shadow-yellow-500",
-    // },
+    {
+      id: 7,
+      src: firebaseImg,
+      title: "Firebase",
+      style: "shadow-yellow-500 flex flex-col pt-4 justify-around",
+    },
     {
       id: 8,
       src: nodeImg,
