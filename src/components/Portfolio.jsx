@@ -2,14 +2,14 @@ import firstImg from "../assets/portfolio/IMG_8348.jpg";
 import secondImg from "../assets/portfolio/IMG_8349.jpg";
 import thirdImg from "../assets/portfolio/IMG_8350.jpg";
 import fourthImg from "../assets/portfolio/IMG_8354.jpg";
-
+import fifthImg from "../assets/portfolio/IMG_8446.jpg";
 const Portfolio = () => {
   const port = [
     {
-      id: 1,
-      src: firstImg,
-      web: "https://thatthat.netlify.app",
-      code: "https://github.com/Ftasma/landing-page-1",
+      id: 5,
+      src: fifthImg,
+      web: "https://food-thingy.vercel.app",
+      code: "https://github.com/ftasma/Food-website",
     },
     {
       id: 2,
@@ -17,13 +17,19 @@ const Portfolio = () => {
       web: "https://netclone-three.vercel.app",
       code: "https://github.com/ftasma/Netflix-",
     },
-
     {
       id: 3,
       src: thirdImg,
       web: "https://comfyhousethingy.netlify.app",
       code: "https://github.com/ftasma/furnitureHouse",
     },
+    {
+      id: 1,
+      src: firstImg,
+      web: "https://thatthat.netlify.app",
+      code: "https://github.com/Ftasma/landing-page-1",
+    },
+
     {
       id: 4,
       src: secondImg,
