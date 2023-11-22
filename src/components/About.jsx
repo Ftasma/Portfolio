@@ -10,10 +10,9 @@ const About = () => {
             About
           </p>
         </div>
-
+        
         <p className="text-xl mt-20">
-          I may have limited professional experience, but i am committed to
-          expanding my knowledge and honing my skills to become a proficient
+          I am committed to expanding my knowledge and honing my skills to become a more proficient
           developer. If you have an exciting project or are part of a team that
           could benefit from an eager learner, I would love to be involved. I am
           confident that my determination, adaptability, and strong work ethic
